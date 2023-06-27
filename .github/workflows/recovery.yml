@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
   DEVICE: Infinix-X663
-  DT_LINK: https://github.com/twrpdtgen/android_device_infinix_Infinix-X663/tree/vnd_x663_h6915-user-11-RP1A.200720.011-245674-release-keys
+  DT_LINK: https://github.com/ujoke3464/android_device_infinix_Infinix-X663
   DT_PATH: device/infinix/Infinix-X663
   TARGET: bootimage
   TZ: Asia/manila
